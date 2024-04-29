@@ -1,0 +1,26 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.btn-primary {
+    background-color: #00ADB5;
+}
+
+.btn-primary:hover {
+    background-color: rgb(2, 145, 153);
+}
+
+img {
+    object-fit: cover !important;
+}
+
+.bg-qara {
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+.bg-qara:hover {
+    background-color: #222831;
+    color: #EEEEEE;
+    border-radius: 0;
+}
